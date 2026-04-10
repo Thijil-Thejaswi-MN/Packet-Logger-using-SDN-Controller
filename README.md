@@ -202,12 +202,12 @@ All screenshots are available in the [`/screenshots`](./screenshots/) folder, in
 
 | Screenshot | Description |
 |------------|-------------|
-| `ryu_controller_output.png` | Live packet logs shown in Ryu terminal |
-| `ping_results.png` | Ping test — 0% packet loss across all hosts |
-| `iperf_results.png` | TCP throughput test — 94.5 Gbits/sec |
-| `packet_log.png` | Contents of `packet_log.txt` with timestamped entries |
-| `flow_table.png` | OVS flow table dump using `ovs-ofctl dump-flows s1` |
-| `topology_dump.png` | Mininet `net` and `dump` output |
+| `ryu_controller_output.jpeg` | Live packet logs shown in Ryu terminal |
+| `ping_results.jpeg` | Ping test — 0% packet loss across all hosts |
+| `iperf_results.jpeg` | TCP throughput test — 94.5 Gbits/sec |
+| `packet_log.txt` | Contents of `packet_log.txt` with timestamped entries |
+| `flow_table.jpeg` | OVS flow table dump using `ovs-ofctl dump-flows s1` |
+| `topology_dump.jpeg` | Mininet `net` and `dump` output |
 
 ---
 
