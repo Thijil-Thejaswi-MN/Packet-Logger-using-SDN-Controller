@@ -198,7 +198,7 @@ sdn-packet-logger/
 
 ## 📸 Proof of Execution
 
-All screenshots are available in the [`/screenshots`](./screenshots/) folder, including:
+All screenshots are available in the [`/Screenshots`](./screenshots/) folder, including:
 
 | Screenshot | Description |
 |------------|-------------|
